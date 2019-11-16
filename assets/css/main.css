@@ -1701,14 +1701,3 @@ img {
     background: #fe8c00;
     background: -webkit-linear-gradient(left, #fe8c00, #f83600);
     background: linear-gradient(to right, #fe8c00, #f83600); }
-
-body.has-theme-bar #page {
-    top: 60px;
-    padding-top: 60px; }
-    @media only screen and (max-width: 801px) {
-        body.has-theme-bar #page {
-            top: 60px;
-            padding-top: 0; } }
-    @media only screen and (min-width: 801px) {
-        body.has-theme-bar #page .site-header {
-            top: 60px; } }
