@@ -1,48 +1,41 @@
-# Forestry Jekyll demo
+# Azimuth
 
-A Jekyll demo site for [Forestry CMS](https://forestry.io).
+A sleek SaaS theme for Stackbit. [Live Demo](https://themes.stackbit.com/demos/azimuth)
 
-## Import to Forestry
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-azimuth)
 
-This project has been pre-configured to work with Forestry, just import your repository ✨.  
-Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
+### Turn themes into CMS-powered websites
 
-<p><a href="https://app.forestry.io/quick-start?repo=forestryio-templates/belkirk-jekyll-demo&engine=jekyll">
-    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
-</a></p>
+[Stackbit](https://www.stackbit.com/) provisions your theme's content model with a growing selection of headless CMS and pulls the content for you in the format your static site generator expects it. This is powered by a single config file, [stackbit.yaml](https://docs.stackbit.com/uniform/stackbit-yaml/), which defines a [Uniform theme model](https://docs.stackbit.com/uniform/) and enables integration with CMS like Contentful, DatoCMS, Forestry, NetlifyCMS, etc.
 
-Forestry empowers editors with a usable interface to edit Markdown, YAML and JSON files:
+### One theme codebase converts to multiple Static Site Generators
 
-![](https://res.cloudinary.com/forestry-demo/image/fetch/c_limit,dpr_auto,f_auto,q_80,w_1205/https://forestry.io/uploads/2018/12/draft-post-editor.png)
+This theme in particular is written in [Unibit](https://docs.stackbit.com/unibit/), a superset of static site generators. Unibit's powerful transpiling engine enables you to write once and stay SSG agnostic. Themes will automatically work with new generators as they are added and can currently convert to Jekyll, Hugo & Gatsby.
 
-## Documentation
+## Quickstart
 
-- [Forestry docs](https://forestry.io/docs/welcome/)
-- [Jekyll Developer Guide](https://forestry.io/docs/guides/developing-with-jekyll/)
-- [Jekyll docs](https://jekyllrb.com)
+### Unibit CLI
 
-## Deployment
-
-The easiest way to deploy this Jekyll v4 demo is to build and deploy through https://netlify.com, just click the button below and follow the instructions.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio-templates/belkirk-jekyll-demo)
-
-## Running locally
-
-### Requirements
-
-- Ruby > 2.4
-- Bundler > 2.0
-- Jekyll > 4.0
-
-Once you've cloned the repository:
+Develop locally using the Unibit CLI. 
 
 ```
-# Install project dependencies
-bundle install
-
-# Run a local server to preview your work 
-bundle exec jekyll serve
+npm install -g @stackbit/unibit
 ```
 
+Start the local development server. 
 
+```
+unibit develop
+```
+
+Compile a production build into the `public` folder.
+
+```
+unibit build
+```
+
+### CodeSandbox
+
+Develop this theme in the browser using CodeSandbox.
+
+[Fork in CodeSandbox](https://codesandbox.io/s/github/stackbithq/stackbit-theme-azimuth)
