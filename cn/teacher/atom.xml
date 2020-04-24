@@ -6,7 +6,7 @@
   <link href="/cn/teacher/atom.xml" rel="self"/>
   
   <link href="https://www.drfeng.co.uk/"/>
-  <updated>2020-04-24T13:40:40.005Z</updated>
+  <updated>2020-04-24T13:44:22.619Z</updated>
   <id>https://www.drfeng.co.uk/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.drfeng.co.uk/python-fundamental-1/"/>
     <id>https://www.drfeng.co.uk/python-fundamental-1/</id>
     <published>2020-04-24T04:50:00.000Z</published>
-    <updated>2020-04-24T13:40:40.005Z</updated>
+    <updated>2020-04-24T13:44:22.619Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-1-The-robot-game"><a href="#1-1-The-robot-game" class="headerlink" title="1.1 The robot game"></a>1.1 The robot game</h2><p>Let’s play a game first.</p><p><img src="/images/python-basic/01/robot.png" alt="Robot"></p><a id="more"></a><h2 id="1-2-Conclusion"><a href="#1-2-Conclusion" class="headerlink" title="1.2 Conclusion"></a>1.2 Conclusion</h2><ul><li>Robots / Computers are stupid!</li><li>Clear instructions must be given for each single step!</li></ul><p><img src="/images/python-basic/01/steps.jpg" alt="Steps"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-1-The-robot-game"><a href="#1-1-The-robot-game" class="headerlink" title="1.1 The robot game"></a>1.1 The robot game</h2><p>Let’s play a game first.</p><p><img src="/cn/teacher/images/python-basic/01/robot.png" alt="Robot"></p><a id="more"></a><h2 id="1-2-Conclusion"><a href="#1-2-Conclusion" class="headerlink" title="1.2 Conclusion"></a>1.2 Conclusion</h2><ul><li>Robots / Computers are stupid!</li><li>Clear instructions must be given for each single step!</li></ul><p><img src="/cn/teacher/images/python-basic/01/steps.jpg" alt="Steps"></p>]]></content>
     
     <summary type="html">
     
