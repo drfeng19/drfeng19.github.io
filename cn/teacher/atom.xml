@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DFC</title>
+  <icon>https://www.gravatar.com/avatar/445ac875656a1a03e3c30477f252cf89</icon>
+  <subtitle>Dr Feng&#39;s Coding Club</subtitle>
+  <link href="/cn/teacher/atom.xml" rel="self"/>
+  
+  <link href="https://www.drfeng.co.uk/"/>
+  <updated>2020-04-24T11:30:50.569Z</updated>
+  <id>https://www.drfeng.co.uk/</id>
+  
+  <author>
+    <name>dfc</name>
+    <email>fengyankui@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://www.drfeng.co.uk/test/"/>
+    <id>https://www.drfeng.co.uk/test/</id>
+    <published>2020-04-24T11:30:50.569Z</published>
+    <updated>2020-04-24T11:30:50.569Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
